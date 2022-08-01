@@ -1,0 +1,3 @@
+public class Sum {
+	Run | Debug 
+	public static void main(String[] args) }
